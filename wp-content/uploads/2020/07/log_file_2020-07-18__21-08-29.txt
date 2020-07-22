@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Style 01 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/PrimerWord
+Data file = C:\xampp\htdocs\PrimerWord/wp-content/uploads/2020/07/demo-content-import-file_2020-07-18__21-08-29.xml
+Widget file = C:\xampp\htdocs\PrimerWord/wp-content/uploads/2020/07/demo-widgets-import-file_2020-07-18__21-08-29.json
+Customizer file = not defined!
+Redux files:
+virtue -> C:\xampp\htdocs\PrimerWord/wp-content/uploads/2020/07/demo-redux-import-file_0-2020-07-18__21-08-29.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+orphaned_widgets_4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Menú de navegación - Resources - Imported to Inactive
+
+Barra lateral principal : 
+
+Buscar - No Title - Imported
+Virtue: Publicaciones Recientes - No Title - Imported
+
+Footer Column 1 : 
+
+Texto - Virtue Theme - Imported
+
+Footer Column 2 : 
+
+Virtue: Contacto/Vcard - Contact Us - Imported
+Virtue: Redes Sociales - Social - Imported
+
+Footer Column 3 : 
+
+Virtue: Imagen Rejilla | Grid - Recent Projects - Imported
+
+Footer Column 4 : 
+
+Menú de navegación - Resources - Imported
+
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Buscar - No Title - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: virtue finished successfully!
+
+---pt-ocdi/after_import---
+

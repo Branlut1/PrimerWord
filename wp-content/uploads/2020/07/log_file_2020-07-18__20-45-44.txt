@@ -1,0 +1,60 @@
+
+---Downloaded files---
+The import files for: Style 01 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/PrimerWord
+Data file = C:\xampp\htdocs\PrimerWord/wp-content/uploads/2020/07/demo-content-import-file_2020-07-18__20-45-44.xml
+Widget file = C:\xampp\htdocs\PrimerWord/wp-content/uploads/2020/07/demo-widgets-import-file_2020-07-18__20-45-44.json
+Customizer file = not defined!
+Redux files:
+virtue -> C:\xampp\htdocs\PrimerWord/wp-content/uploads/2020/07/demo-redux-import-file_0-2020-07-18__20-45-44.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

@@ -1,0 +1,4 @@
+2020-07-18T22:29:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-07-18T22:37:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-includes\widgets\class-wp-widget-tag-cloud.php on line 204
+
