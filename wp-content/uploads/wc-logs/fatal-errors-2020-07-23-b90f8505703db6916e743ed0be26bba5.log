@@ -1,0 +1,12 @@
+2020-07-23T20:38:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-content\plugins\revisr\classes\class-revisr-git.php on line 114
+
+2020-07-23T20:39:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-content\plugins\revisr\classes\class-revisr-git.php on line 114
+
+2020-07-23T20:44:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-includes\l10n.php on line 1304
+
+2020-07-23T20:48:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2020-07-23T20:52:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-content\plugins\revisr\classes\class-revisr-git.php on line 114
+
+2020-07-23T20:53:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrimerWord\wp-content\plugins\revisr\classes\class-revisr-git.php on line 114
+
